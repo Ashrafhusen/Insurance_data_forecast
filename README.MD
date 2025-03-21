@@ -1,0 +1,1 @@
+Predict insurance policy purchase likelihood using anonymized customer data from the COIL 2000 dataset. This project is an end-to-end machine learning solution that includes data preprocessing, model training, explainability with SHAP, real-time prediction API (FastAPI), and an interactive Streamlit dashboard.
